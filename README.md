@@ -28,7 +28,7 @@ Korea Digital Training(KDT)
 
 ---
 
-# 01.Cloud_OnPremise_Architecture
+# 01. Cloud_OnPremise_Architecture
 
 
 
